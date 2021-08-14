@@ -104,7 +104,8 @@ h3{
 }
 
 p{
-    color: rgb(255, 9, 91);
+     color: rgb(255 213 9);
+
     /* text-transform: uppercase; */
     font-size: 25px;
     text-align: center;
