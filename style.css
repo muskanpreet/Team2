@@ -136,3 +136,12 @@ span
     padding-left:20% ;
 
 }
+@media(max-width:991.7px)
+{
+    .gen
+{
+    width: 310px !important;
+    height: 310px !important;
+    margin:80px 70px !important;
+}
+}
